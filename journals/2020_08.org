@@ -20,7 +20,7 @@
 * Aug 18th, 2020
 * Aug 19th, 2020
 ** 发现这么个web应用，试一试来记录各种奇怪的想法。
-*** SRC title
+*** SRC Title
 #+BEGIN_SRC C
 
 printf("Hello world!")
