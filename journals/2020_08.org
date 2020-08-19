@@ -17,10 +17,7 @@
 * Aug 17th, 2020
 * Aug 18th, 2020
 * Aug 19th, 2020
-** 这是怎么说？
-** 我动卡了
-** daodksa *dodsk* womfdska
-** linxu #os
+** # 好像不用用啊
 **
 * Aug 20th, 2020
 * Aug 21st, 2020
