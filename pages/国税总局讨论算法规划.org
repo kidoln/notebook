@@ -2,9 +2,8 @@
 #+TAGS: #tax
 #+PUBLISHED: true
 #+PERMALINK: %E5%9B%BD%E7%A8%8E%E6%80%BB%E5%B1%80%E8%AE%A8%E8%AE%BA%E7%AE%97%E6%B3%95%E8%A7%84%E5%88%92
-#+SLIDE: true
 
-** 国税总局^^第二办公区^^
+**
 ** ((5f3c6c99-0894-41e3-9330-c158e40f76b6))
 ** #+BEGIN_IMPORTANT
 这是不是重要的
