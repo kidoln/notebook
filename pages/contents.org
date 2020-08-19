@@ -4,3 +4,7 @@
 *** #+BEGIN_IMPORTANT
 这是不是重要的
 #+END_IMPORTANT
+*** #+BEGIN_CAUTION
+你与三愿
+*** #+END_CAUTION
+***
