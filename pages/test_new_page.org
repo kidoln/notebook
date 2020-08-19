@@ -1,4 +1,6 @@
 #+TITLE: test new page
 #+TAGS:
+#+PUBLISHED: true
+#+PERMALINK: test%20new%20page
 
 ** How to publish it?
