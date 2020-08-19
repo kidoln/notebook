@@ -1,14 +1,1 @@
-** [[国税总局讨论算法规划]]
-** TODO [#A] 不呢GG狂a
-   :PROPERTIES:
-   :CUSTOM_ID: 5f3c6c99-0894-41e3-9330-c158e40f76b6
-   :END:
-*** # zfme
-*** #+BEGIN_IMPORTANT
-这是不是重要的
-#+END_IMPORTANT
-*** #+BEGIN_CAUTION
-你与三愿
-#+END_CAUTION
-*** 地道我DKA
-** 我猫大可
+** [[]]
