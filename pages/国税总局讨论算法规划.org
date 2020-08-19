@@ -15,4 +15,5 @@
 ** #+BEGIN_SRC clojure
   (println "Hello world!")
 #+END_SRC
+** [[https://www.example.com][label]]
 **
