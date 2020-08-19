@@ -19,7 +19,12 @@
 * Aug 17th, 2020
 * Aug 18th, 2020
 * Aug 19th, 2020
-** 这是个特殊的page。
+** 这我们到
+** *我们洞口*
+** [[Aug 18th, 2020]]
+** LATER vwodsmak
+** {{{embed ((产品))}}}
+**
 * Aug 20th, 2020
 * Aug 21st, 2020
 * Aug 22nd, 2020
