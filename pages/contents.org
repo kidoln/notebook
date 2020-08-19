@@ -1,2 +1,4 @@
+#+TITLE: Contents
+#+TAGS: index
 ** [[微软同学聚会]]
 **
