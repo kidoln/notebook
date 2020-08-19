@@ -16,4 +16,5 @@
   (println "Hello world!")
 #+END_SRC
 ** [[https://www.example.com][label]]
+** [[https://logseq.com/static/img/logo.png][image]]
 **
