@@ -33,16 +33,6 @@
 |               |          |          |       |      |        |
 |---------------+----------+----------+-------+------+--------|
 **
-** | Feature       | org-roam | obsidian | wolai | Foam | logseq |
-|---------------+----------+----------+-------+------+--------|
-| tag search    | OK       | Good     | OK    | OK   | soso   |
-| export        | OK       | NA       | NA    | OK   | NA     |
-| vim + Chinese | Good     | NA       | NA    | Good | NA     |
-| Graph         | Bad      | Good     | Good  | Good | Good   |
-| Block link    | NA       | NA       | NA    | NA   | OK     |
-| Backlink      | OK       | OK       | OK    | OK   | OK     |
-|               |          |          |       |      |        |
-|---------------+----------+-------
 * Aug 20th, 2020
 * Aug 21st, 2020
 * Aug 22nd, 2020
