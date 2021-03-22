@@ -1,4 +1,12 @@
 #+TITLE: Contents
-#+TAGS: index
-** [[微软同学聚会]]
+** 医学技术新趋势
+:PROPERTIES:
+:heading: true
+:END:
+***
+** 其他内容
+:PROPERTIES:
+:heading: true
+:END:
+*** [[微软同学聚会]]
 **
