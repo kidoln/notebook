@@ -4,7 +4,8 @@
 :heading: true
 :END:
 *** https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/our-insights/the-bio-revolution-innovations-transforming-economies-societies-and-our-lives
-*** [【】]
+*** [[麦肯锡医学]]
+***
 ** 其他内容
 :PROPERTIES:
 :heading: true
