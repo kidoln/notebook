@@ -2,4 +2,5 @@
 
 ** 新技术趋势
 *** [[https://www.mckinsey.com/industries/pharmaceuticals-and-medical-products/our-insights/the-bio-revolution-innovations-transforming-economies-societies-and-our-lives][The Bio Revolution: Innovations transforming economies, societies, and our lives]]
-**** 这里提到“”
+**** 这里提到“脑机”，不知道是不是未来一个重要的技术趋势。
+****
