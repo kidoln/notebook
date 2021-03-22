@@ -3,6 +3,7 @@
 :PROPERTIES:
 :heading: true
 :END:
+***
 *** [[麦肯锡医学]]
 ** 其他内容
 :PROPERTIES:
