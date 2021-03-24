@@ -38,3 +38,4 @@ DEADLINE: <2021-03-03 Tue>
  :inputs [:7d-before :today "data"]}
 #+END_QUERY
 **
+**
