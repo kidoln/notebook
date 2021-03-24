@@ -9,11 +9,10 @@
 :todo: 1616579645677
 :END:
 DEADLINE: <2021-03-24 Wed>
-** TODO Task3 #data
+** Task3 #data
 :PROPERTIES:
 :todo: 1616583356907
 :END:
-DEADLINE: <2021-03-03 Tue>
 **
 ** 
 #+BEGIN_QUERY
@@ -37,6 +36,7 @@ DEADLINE: <2021-03-03 Tue>
          [?rp :page/name ?tag]]
  :inputs [:7d-before :today "data"]}
 #+END_QUERY
+**
 **
 **
 **
