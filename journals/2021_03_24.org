@@ -9,7 +9,11 @@
 :todo: 1616579645677
 :END:
 DEADLINE: <2021-03-24 Wed>
-**
+** TODO Task3 #data 
+:PROPERTIES:
+:todo: 1616583356907
+:END:
+DEADLINE: <2021-03-23 Tue>
 ** 
 #+BEGIN_QUERY
 {:title "All todos with tag project"
