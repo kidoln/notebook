@@ -9,3 +9,13 @@
 :todo: 1616579645677
 :END:
 DEADLINE: <2021-03-24 Wed>
+**
+**
+#+BEGIN_QUERY
+{:title "All todos with tag project"
+ :query [:find (pull ?b [*])
+         :where
+         [?p :page/name "project"]
+         [?b :block/ref-pages ?p]]}
+#+END_QUERY
+**
