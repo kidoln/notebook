@@ -18,4 +18,17 @@ DEADLINE: <2021-03-24 Wed>
          [?p :page/name "project"]
          [?b :block/ref-pages ?p]]}
 #+END_QUERY
-**
+** 
+#+BEGIN_QUERY
+{:title "Blocks in 7ds with a page reference of data"
+ :query [:find (pull ?b [*])
+         :in $ ?start ?today ?tag
+         :where
+         [?b :block/page ?p]
+         [?p :page/journal-day ?d]
+         [(>= ?d ?start)]
+         [(<= ?d ?today)]
+         [?b :block/ref-pages ?rp]
+         [?rp :page/name ?tag]]
+ :inputs [:7d-before :today "data"]}
+#+END_QUERY
