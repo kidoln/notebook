@@ -1,6 +1,6 @@
 #+TITLE: Mar 24th, 2021
 
-** TODO Task1
+** TODO Task1 #project
 :PROPERTIES:
 :todo: 1616579638001
 :END:
@@ -10,7 +10,7 @@
 :END:
 DEADLINE: <2021-03-24 Wed>
 **
-**
+** 
 #+BEGIN_QUERY
 {:title "All todos with tag project"
  :query [:find (pull ?b [*])
