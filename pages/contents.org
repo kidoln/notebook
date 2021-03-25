@@ -9,4 +9,4 @@
 :heading: true
 :END:
 *** [[微软同学聚会]]
-** {{query }}
+**
