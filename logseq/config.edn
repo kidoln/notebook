@@ -80,4 +80,5 @@
  :feature/enable-encryption? false
  :feature/enable-timetracking? true
  :date-formatter "yyyy/MM/dd"
+ :preferred-format :markdown
  }
